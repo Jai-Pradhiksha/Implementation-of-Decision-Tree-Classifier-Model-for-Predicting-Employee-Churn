@@ -73,13 +73,22 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
+1. data.head()
 ![image](https://github.com/Jai-Pradhiksha/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/100289733/04c1b916-78f2-432a-8d37-c1cae08e44d1)
+2. data.info()
 ![image](https://github.com/Jai-Pradhiksha/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/100289733/81f7497e-6cca-40d9-9437-6bd75847c67e)
+3. isnull() and sum()
 ![image](https://github.com/Jai-Pradhiksha/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/100289733/4c084051-4799-43c2-bfe5-dd5f6c68875c)
+4. data value counts()
+5. Name
 ![image](https://github.com/Jai-Pradhiksha/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/100289733/18372ec8-e540-4c7d-8916-642f9a6f71f3)
+6. data.head() for salary
 ![image](https://github.com/Jai-Pradhiksha/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/100289733/1a85a152-3fdb-4d5a-b798-0bf91ef2efcf)
+7. x.head()
 ![image](https://github.com/Jai-Pradhiksha/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/100289733/ae134cc0-2382-4940-83d0-e725aefc3549)
+8. Accuracy value
 ![image](https://github.com/Jai-Pradhiksha/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/100289733/39a2725b-d7a8-4a77-8fd6-77b45a25a1d1)
+9. Data prediction
 ![image](https://github.com/Jai-Pradhiksha/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/100289733/cf2734dc-ecb2-4693-b7c2-61db259feef0)
 
 
